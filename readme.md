@@ -140,18 +140,11 @@ Parameters are estimated via curve fitting on empirical density.
 
 ---
 
-# 🔍 Method Comparison
 
-| Property | Generative Model | Parametric Fit |
-|-----------|------------------|----------------|
-| Prior Assumption | None | Fixed functional form |
-| Flexibility | Very High | Moderate |
-| Training | Adversarial / Sample Learning | Curve Optimization |
-| Interpretability | Lower | Higher |
-| Compute Cost | Higher | Lower |
 
----
-
+# ✅ Result
+![Parameters](results1.png)
+![Histogram](results2.png)
 # ✅ Summary
 
 This work presents two PDF estimation paths from environmental NO₂ data:
